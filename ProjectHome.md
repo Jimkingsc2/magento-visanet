@@ -1,0 +1,1 @@
+Módulo de pagamento usando Visanet VBV para Magento.
